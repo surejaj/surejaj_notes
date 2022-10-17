@@ -1,3 +1,18 @@
-baseURL: http://example.org/
+baseURL: "/"
 languageCode: en-us
-title: My New Hugo Site
+title: UBoot Notes
+theme: terminal
+params:
+  contentTypeName: "posts"
+  themeColor: orange
+  fullWidthTheme: false
+  centerTheme: true
+  showMenuItems: 2
+
+  languages:
+    en:
+      languageName: "English"
+      owner: "Surej Joseph"
+      copyright: ""
+      fullWidthTheme: false
+      centerTheme: true
