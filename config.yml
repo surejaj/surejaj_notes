@@ -4,7 +4,7 @@ title: UBoot Notes
 theme: terminal
 params:
   contentTypeName: "posts"
-  themeColor: orange
+  themeColor: blue
   fullWidthTheme: false
   centerTheme: true
   showMenuItems: 2
