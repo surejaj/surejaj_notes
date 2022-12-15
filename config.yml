@@ -1,18 +1,28 @@
 baseURL: "/"
 languageCode: en-us
-title: UBoot Notes
-theme: terminal
+title: SurejAJ's Notes.
+copyRight: "Surej Joseph"
+
+module:
+  imports:
+  - path: github.com/panr/hugo-theme-terminal
+
 params:
   contentTypeName: "posts"
-  themeColor: blue
+  themeColor: green
   fullWidthTheme: false
   centerTheme: true
   showMenuItems: 2
 
-  languages:
-    en:
-      languageName: "English"
-      owner: "Surej Joseph"
-      copyright: ""
-      fullWidthTheme: false
-      centerTheme: true
+  menu:
+    main:
+      identifier: "home"
+      name: "Home"
+      url: "/"
+
+      identifier: "aboutme"
+      name: "About Me"
+      url: "/about"
+
+  logo:
+    logoText: "SurejAJ's Notes"
