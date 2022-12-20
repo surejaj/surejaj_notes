@@ -98,7 +98,7 @@ ___
 GitHub Projects
 ---
 
-CAN - PiHAT - https://github.com/surejaj/CAN-PiHAT 
+- CAN - PiHAT - https://github.com/surejaj/CAN-PiHAT
 ___
 A Raspberry Pi HAT (Hardware Attachment on Top) for enabling Automotive
 CAN bus capability to Raspberry Pi. Schematic and PCB was designed using
